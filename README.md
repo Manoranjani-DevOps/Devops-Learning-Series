@@ -37,3 +37,11 @@ The goal of this repository is not just to learn DevOps tools but to understand 
 - Production Best Practices
 
 Happy Learning! 🚀
+
+---
+
+Created by
+
+**Manoranjani Sundararaj**
+
+Cloud & DevOps Engineer
